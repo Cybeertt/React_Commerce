@@ -146,3 +146,8 @@ D:\Practice_Jobs\React_Commerce\Reactivities\API\obj\Debug\net7.0\refint\API.dll
 D:\Practice_Jobs\React_Commerce\Reactivities\API\obj\Debug\net7.0\API.pdb
 D:\Practice_Jobs\React_Commerce\Reactivities\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 D:\Practice_Jobs\React_Commerce\Reactivities\API\obj\Debug\net7.0\ref\API.dll
+D:\Practice_Jobs\React_Commerce\Reactivities\API\bin\Debug\net7.0\AutoMapper.dll
+D:\Practice_Jobs\React_Commerce\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Practice_Jobs\React_Commerce\Reactivities\API\bin\Debug\net7.0\MediatR.dll
+D:\Practice_Jobs\React_Commerce\Reactivities\API\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Practice_Jobs\React_Commerce\Reactivities\API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
