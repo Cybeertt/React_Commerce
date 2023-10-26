@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lTVyZ3sffeZ7zmZjl0lqM+uHfbp5sp/X+2vUpB8lMJMKOAiOh5cqFyA/tK02B68Z1ykGLv2MR7M99uROS9bHw==",
+  "dgSpecHash": "fhmH6t/E1fksG0ENSCfVxklxAh90gUl5K0sa5MJ369Hdbl6bkhWNDCcv7YiB86sC8cyne2KD2iSUvLuDyriILw==",
   "success": true,
-  "projectFilePath": "D:\\Practice_Jobs\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

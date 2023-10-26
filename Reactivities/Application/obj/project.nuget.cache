@@ -1,15 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "htBblBBRO5o+7XQmiRYzDOWtRJ7aOcPLA/abQ2+uvq4nZEihFPVErz/2xPszSQHGyA0a9UJrxOEK4J1RPZuAsA==",
+  "dgSpecHash": "0gdUDYamGakAjeLH1Is3hVprllMQYmhPtJJXf8fJpCirVJO6+6I5C3Ho24uOKXsnjmuYGFtA8lW93C8XN3CrVQ==",
   "success": true,
-  "projectFilePath": "D:\\Practice_Jobs\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rafae\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

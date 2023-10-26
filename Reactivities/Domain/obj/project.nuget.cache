@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IVf/v0WITD18ZV4f+fdJGU6bP0tk7Ph6oE+ZTmou9DsV/uA43vH/NmqJpBn8t8py1yOIE3yS3FKgoA2wrRzYeA==",
+  "dgSpecHash": "Z505l56kiNhN5NZuZ+Hucr/naY5gT8z5P0+4/OjB1ZlqRtp5ZwK7Pt7/dWFv3HwtxUp33ZHnSdCnzD4vm+pSFQ==",
   "success": true,
-  "projectFilePath": "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

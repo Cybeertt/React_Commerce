@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice_Jobs\\Reactivities\\Application\\Application.csproj": {}
+    "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\Practice_Jobs\\Reactivities\\Application\\Application.csproj": {
+    "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice_Jobs\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Practice_Jobs\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice_Jobs\\Reactivities\\Application\\obj\\",
+        "outputPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj"
               },
-              "D:\\Practice_Jobs\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Practice_Jobs\\Reactivities\\Persistence\\Persistence.csproj"
+              "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -44,16 +44,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.0, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[11.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -74,14 +64,14 @@
         }
       }
     },
-    "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice_Jobs\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -127,14 +117,14 @@
         }
       }
     },
-    "D:\\Practice_Jobs\\Reactivities\\Persistence\\Persistence.csproj": {
+    "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice_Jobs\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Practice_Jobs\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice_Jobs\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -149,8 +139,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

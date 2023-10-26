@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Practice_Jobs\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice_Jobs\\Reactivities\\Domain\\obj\\",
+      "outputPath": "D:\\Practice_Jobs\\React_Commerce\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
