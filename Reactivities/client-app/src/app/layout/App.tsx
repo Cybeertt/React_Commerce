@@ -1,14 +1,13 @@
-import React, { useEffect, useState } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { useEffect, useState } from 'react';
 import axios from 'axios';
-import { Button, Header, List } from 'semantic-ui-react';
+import { Header, List } from 'semantic-ui-react';
+import { Activity } from '../models/activity';
 
 function App() {
-  const [activities, setActivities] = useState([]);
+  const [activities, setActivities] = useState<Activity[]>([]);
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/activities')
+    axios.get<Activity[]>('http://localhost:5000/api/activities')
       .then(response => {
         setActivities(response.data);
       })
